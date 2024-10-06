@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Jose Boretto</h1>
+<h1 align="center">Hi 👋, my name is Jose Boretto</h1>
 <h3 align="center">I am a Software Engineer & working as Senior Backend Engineer.</h3>
 
 <h3 align="center">Connect with me on:</h3>
